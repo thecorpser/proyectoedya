@@ -15,6 +15,9 @@ public class usaAdministracion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Interfaz in =new Interfaz();
+        in.setVisible(true);
+        
     }
     
 }
