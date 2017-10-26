@@ -10,4 +10,7 @@
  */
 public class Piso {
     
+    private int parqueaderosDisponibles;
+    
+    
 }
